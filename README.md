@@ -30,3 +30,6 @@ Class      Name        Number of images       Percentage
   **Instructions**
   Download the images and copy to a folder name data. 
   Run the classification.ipynb
+
+**Accuracy**
+60% accuracy in 11 Epochs
